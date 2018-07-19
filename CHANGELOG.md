@@ -1,3 +1,15 @@
+### 0.9.5
+
+This release aligns the server and gem versions.
+
+### 0.9.3
+
+Added support for Android P (api 28) devices.
+
+* Changed build process: added gradle build instead of ant.
+* Removed the use of blacklisted api for latest android versions.
+* Clean-up android server from external libs.
+
 ### 0.9.2
 
 This version formalizes the targetSdkLevel and minSdkVersion properties
